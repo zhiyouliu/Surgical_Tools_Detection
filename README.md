@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools
 
 The Final report is available at here:
 
-https://drive.google.com/file/d/135XO5YaJDbZLIX8h41SkIYmKjgxPpW5-/view?usp=sharing
+https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zliu167_jh_edu/ETJS1ko432hDnWfkwl_8aqsBi7vwgCzb0cch-uuclnOP8w?e=F0Ubka
 
 The slide for presentation is available here:
 
