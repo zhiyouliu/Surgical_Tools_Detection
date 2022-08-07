@@ -2,13 +2,9 @@
 
 Cooperate with Pengyu Kan, Hanting Fei and Lelin Zhong.
 
-The dataset is available at here:
+The dataset is available at [here](https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools)
 
-https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools
-
-The Final report is available at here:
-
-https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zliu167_jh_edu/ETJS1ko432hDnWfkwl_8aqsBi7vwgCzb0cch-uuclnOP8w?e=F0Ubka
+The Final report is available at [here](https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zliu167_jh_edu/ETJS1ko432hDnWfkwl_8aqsBi7vwgCzb0cch-uuclnOP8w?e=F0Ubka)
 
 The slide for presentation is available here:
 
