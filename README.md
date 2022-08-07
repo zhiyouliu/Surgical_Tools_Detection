@@ -1,6 +1,6 @@
 # Surgical Tool Object Detection
 
-Cooperate with Pengyu Kan, Hanting Fei and Lelin Zhong
+Cooperate with Pengyu Kan, Hanting Fei and Lelin Zhong.
 
 This project focuses developping effective object detector to detect surgical tools. We specifically study on the capability of transformer bsaed architecture for surgical tool dataset.
 
