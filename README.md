@@ -1,6 +1,6 @@
 # Surgical Tool Object Detection
 
-Cooperate with Pengyu Kan, Hanting Fei and Lelin Zhong.
+Cooperated with Pengyu Kan, Hanting Fei and Lelin Zhong.
 
 The dataset is available at [here](https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools)
 
