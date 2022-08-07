@@ -6,9 +6,7 @@ The dataset is available at [here](https://www.kaggle.com/datasets/dilavado/labe
 
 The Final report is available at [here](https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zliu167_jh_edu/ETJS1ko432hDnWfkwl_8aqsBi7vwgCzb0cch-uuclnOP8w?e=F0Ubka)
 
-The slide for presentation is available here:
-
-https://docs.google.com/presentation/d/1Uoe51roqPScpDiUnHj1nSwsDnCOb4Em8/edit?usp=sharing&ouid=105083212423143034947&rtpof=true&sd=true
+The slide for presentation is available [here](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/zliu167_jh_edu/EWxG2liYfeFKqncfM644gHgB6D-AK_iyX5ZsHCGU0Z9DjQ?e=DeAEef)
 
 This project focuses developping effective object detector to detect surgical tools. We specifically study on the capability of transformer based architecture for surgical tool dataset.
 
