@@ -2,13 +2,17 @@
 
 Cooperate with Pengyu Kan, Hanting Fei and Lelin Zhong.
 
-The Final report is avaiable at here:
+The dataset is available at here:
+
+https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools
+
+The Final report is available at here:
 
 https://drive.google.com/file/d/135XO5YaJDbZLIX8h41SkIYmKjgxPpW5-/view?usp=sharing
 
-The dataset is avaiable at here:
+The slide for presentation is available here:
 
-https://www.kaggle.com/datasets/dilavado/labeled-surgical-tools
+https://docs.google.com/presentation/d/1Uoe51roqPScpDiUnHj1nSwsDnCOb4Em8/edit?usp=sharing&ouid=105083212423143034947&rtpof=true&sd=true
 
 This project focuses developping effective object detector to detect surgical tools. We specifically study on the capability of transformer based architecture for surgical tool dataset.
 
