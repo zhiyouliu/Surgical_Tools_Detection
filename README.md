@@ -72,18 +72,4 @@ We provide an example of implementation for the dataset class from pytorch in ``
 
 	```bash ./Deformable-DETR-surgical_tool/train_with_box_refine.sh```
 
-## TODOS:
-1. we can make some other conv architecture to cast gray scale image input to the 3-channel input required by the DETR.
-
-Maybe use some batch normalization over the initially casted 3-channel input [high-priority]
-
-2. Add more image re-size augmentation process into the ```main_surgical_tool.py``` file. One thing to notice is that we need to follow the augmented image size used in the COCO training case. [high-priority]
-
-3. Try out freeze all other components but only keep the classification head for training [low-priority]
-
-4. maybe run YOLO or faster-rcnn to have some cross comparison [TBD]
-
-	Use our four other evulation metrics for a trained YOLO or Faster-RCNN model for cross comparision.
-
-5. think about novelity modification. We can certainly choose to modify the backbone structure, where we will need to pre-train over the COCO dataset first and then transfer here.  [low priority]
 
